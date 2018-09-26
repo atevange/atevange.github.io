@@ -1,14 +1,37 @@
+{
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 8px;
+}
+
+
 body{
-	background-color: lightblue;
-	color: white;
+	background-color: CornflowerBlue;
 }
 
 h2{
 	color:white;
   }
   
+h3{
+	color:white;
+	text-decoration: underline;
+
+  } 
+  
 ul{
-	background-color:midnightBlue;
+	color:white;
 }
   
+figure
+{
+	color:white;
+}
 
+img { 
+   border:1px; 
+}
